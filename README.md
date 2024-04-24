@@ -33,5 +33,22 @@ Sourceduty's integration with science, particularly within the realms of digital
 <br>
 </details>
 
+#
+### Related Links
+
+[Mars](https://github.com/sourceduty/Mars)
+<br>
+[SpaceX Starship](https://github.com/sourceduty/SpaceX_Starship)
+<br>
+[Space Agencies](https://github.com/sourceduty/Space_Agencies)
+<br>
+[Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
+<br>
+[Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
+<br>
+[Alien Life](https://github.com/sourceduty/Alien_Life)
+
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
