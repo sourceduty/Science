@@ -46,7 +46,7 @@ Sourceduty's integration with science, particularly within the realms of digital
 <br>
 [Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
 <br>
-[Astronaut Jargon](https://github.com/sourceduty/Astronaut_Jargon)
+[Globel Problems](https://github.com/sourceduty/Global_Problems)
 <br>
 [Alien Life](https://github.com/sourceduty/Alien_Life)
 
