@@ -18,6 +18,8 @@ Sourceduty's integration with science, particularly within the realms of digital
 
 > Alex: *"The supposition and generation of scientific fiction creates variants of scientific facts which helps science."*
 
+#
+
 1. Inspiration: Science fiction has inspired many scientists and engineers. Innovations like cell phones and tablets were once envisioned in sci-fi literature and films long before becoming reality. The imaginative scenarios and technologies depicted in science fiction often spark ideas for real-world scientific inquiry and technological development.
 
 2. Public Interest and Funding: Popular science fiction can increase public interest in science, potentially influencing funding and support for scientific research. When a sci-fi concept captures the public's imagination, it can lead to increased investments in technologies similar to those depicted.
