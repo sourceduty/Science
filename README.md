@@ -6,7 +6,7 @@
 Artificial Intelligence (AI) has become a pivotal tool in the field of science, driving significant advancements across various disciplines. By processing vast amounts of data at speeds unattainable by humans, AI aids in identifying patterns and anomalies that might otherwise go unnoticed. This capability is instrumental in areas such as genetic research, where AI algorithms can predict how genetic variations contribute to health and disease, and in climate science, where complex models help forecast changes and simulate mitigation strategies. Moreover, AI's role in automating tedious research tasks allows scientists to focus on more complex problems, accelerating the pace of innovation and discovery.
 
 #
-### Standard Estimated Scientific Subject Time Requirements
+### Estimated Scientific Subject Time Requirements
 
 | Scientific Subject                               | Estimated Time Required        | Average Experiment Time for Individual Projects |
 |--------------------------------------------------|--------------------------------|-------------------------------------------------|
