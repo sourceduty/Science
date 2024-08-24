@@ -9,24 +9,24 @@ Artificial Intelligence (AI) has become a pivotal tool in the field of science, 
 ### Standard Estimated Scientific Subject Time Requirements
 
 ```
-| Scientific Subject                               | Estimated Time Required  | Average Experiment Time for Individual Projects |
-+--------------------------------------------------|--------------------------|-------------------------------------------------|
-| Medicine (MD, Residency, Fellowship)             | 10-15 years                    | 6-12 months                               |
-| Theoretical Physics                              | 7-10 years                     | 1-2 years                                 |
-| Neuroscience                                     | 6-9 years                      | 1-2 years                                 |
-| Astrophysics and Astronomy                       | 6-9 years                      | 1-3 years                                 |
-| Biomedical Engineering                           | 6-8 years                      | 1-2 years                                 |
-| Molecular Biology and Genetics                   | 6-8 years                      | 1-2 years                                 |
-| Chemistry (Advanced and Specialized Fields)      | 6-8 years                      | 1-2 years                                 |
-| Environmental Science (Specialized Studies)      | 5-7 years                      | 6-18 months                               |
-| Computer Science (Advanced)                      | 5-7 years                      | 6-12 months                               |
-| Geophysics                                       | 5-7 years                      | 6-18 months                               |
-| Microbiology                                     | 5-7 years                      | 1-2 years                                 |
-| Materials Science                                | 5-7 years                      | 1-2 years                                 |
-| Mathematics (Advanced Studies)                   | 4-6 years                      | 6-12 months                               |
-| Statistics                                       | 4-6 years                      | 6-12 months                               |
-| Psychology (Theoretical Focus)                   | 4-6 years                      | 6-12 months                               |
-| Earth Science (Non-field Intensive)              | 4-6 years                      | 6-18 months                               |
+| Scientific Subject                               | Estimated Time Required        | Average Experiment Time for Individual Projects |
+|--------------------------------------------------|--------------------------------|-------------------------------------------------|
+| Medicine (MD, Residency, Fellowship)             | 10-15 years                    | 6-12 months                                     |
+| Theoretical Physics                              | 7-10 years                     | 1-2 years                                       |
+| Neuroscience                                     | 6-9 years                      | 1-2 years                                       |
+| Astrophysics and Astronomy                       | 6-9 years                      | 1-3 years                                       |
+| Biomedical Engineering                           | 6-8 years                      | 1-2 years                                       |
+| Molecular Biology and Genetics                   | 6-8 years                      | 1-2 years                                       |
+| Chemistry (Advanced and Specialized Fields)      | 6-8 years                      | 1-2 years                                       |
+| Environmental Science (Specialized Studies)      | 5-7 years                      | 6-18 months                                     |
+| Computer Science (Advanced)                      | 5-7 years                      | 6-12 months                                     |
+| Geophysics                                       | 5-7 years                      | 6-18 months                                     |
+| Microbiology                                     | 5-7 years                      | 1-2 years                                       |
+| Materials Science                                | 5-7 years                      | 1-2 years                                       |
+| Mathematics (Advanced Studies)                   | 4-6 years                      | 6-12 months                                     |
+| Statistics                                       | 4-6 years                      | 6-12 months                                     |
+| Psychology (Theoretical Focus)                   | 4-6 years                      | 6-12 months                                     |
+| Earth Science (Non-field Intensive)              | 4-6 years                      | 6-18 months                                     |
 ```
 
 This table provides an overview of the estimated time required and the average experiment time for individual projects across various high-level scientific subjects. Fields such as Medicine, Theoretical Physics, and Neuroscience are marked by extended study periods, often ranging from 6 to 15 years, due to the complexity and depth of research involved. For instance, Medicine requires prolonged training periods that include medical school, residency, and possibly fellowships, totaling 10-15 years. In these fields, individual research projects or experimental work are typically intense and focused, with durations ranging from 6-12 months for clinical studies in medicine to 1-3 years for observational studies in Astrophysics and Astronomy. The need for meticulous experimentation and data collection drives these extended timelines, reflecting the rigorous standards of these disciplines.
