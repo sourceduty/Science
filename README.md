@@ -43,29 +43,6 @@ Rather than relying on formal education, Alex is committed to self-directed rese
 Sourceduty is committed to democratizing technology through open-source models, promoting a collaborative approach to scientific research and development. By sharing its research findings and models publicly, Alex encourages a community-driven approach to innovation, drawing on the collective expertise of contributors. This strategy bridges the gap between informal and formal academic research, fostering broader participation in scientific and technological advancement and ensuring that high-quality resources are accessible to a wider audience.
 
 #
-### Notes
-
-<details><summary>Science Fiction</summary>
-<br>
-
-> Alex: *"The supposition and generation of scientific fiction creates variants of scientific facts which helps science."*
-
-#
-
-1. Inspiration: Science fiction has inspired many scientists and engineers. Innovations like cell phones and tablets were once envisioned in sci-fi literature and films long before becoming reality. The imaginative scenarios and technologies depicted in science fiction often spark ideas for real-world scientific inquiry and technological development.
-
-2. Public Interest and Funding: Popular science fiction can increase public interest in science, potentially influencing funding and support for scientific research. When a sci-fi concept captures the public's imagination, it can lead to increased investments in technologies similar to those depicted.
-
-3. Ethical Forecasting: Science fiction frequently explores the potential consequences—both good and bad—of new technologies and scientific advancements. This can lead to important discussions about ethics in science, helping society to anticipate and address potential issues before they arise.
-
-4. Problem-Solving: By presenting hypothetical scenarios where characters must solve complex problems with innovative solutions, science fiction encourages creative thinking that can be valuable in real scientific fields.
-
-5. Educational Tool: Science fiction can serve as an engaging tool to explain complex scientific theories and principles. By weaving scientific concepts into compelling narratives, it can make science more accessible and interesting to a wider audience.
-
-<br>
-</details>
-
-#
 ### New Science Subjects
 
 [Xenodynamics](https://github.com/sourceduty/Xenodynamics)
@@ -89,6 +66,29 @@ The validation of new scientific subjects typically begins with rigorous researc
 Beyond initial research and peer review, further validation requires ongoing study and collaboration. Independent research teams might replicate studies to confirm findings or explore different aspects of the subject. Conferences and symposiums provide platforms for scientists to discuss their research, share insights, and challenge existing theories. As more evidence accumulates, a consensus may emerge, strengthening the credibility of the new subject. Additionally, interdisciplinary collaboration can bring fresh perspectives and methodologies, enriching the understanding and application of the subject. This collective effort helps to solidify the new subject's place within the broader scientific framework, paving the way for its integration into academic curricula and practical applications.
 
 To contribute to the validation of new scientific subjects, one typically needs to be a student or professor actively engaged in academic or research settings. Professors play a crucial role by leading research projects, conducting experiments, and publishing their findings in scientific journals, which are then subject to peer review. Students, often working under the guidance of professors, can also participate in these research efforts, gaining hands-on experience in the scientific process. Both students and professors are involved in attending and presenting at conferences and symposiums, where they share insights, challenge theories, and collaborate with peers. This academic environment fosters the rigorous scrutiny, discussion, and collaboration necessary for validating new scientific discoveries and integrating them into the broader scientific community.
+
+#
+### Notes
+
+<details><summary>Science Fiction</summary>
+<br>
+
+> Alex: *"The supposition and generation of scientific fiction creates variants of scientific facts which helps science."*
+
+#
+
+1. Inspiration: Science fiction has inspired many scientists and engineers. Innovations like cell phones and tablets were once envisioned in sci-fi literature and films long before becoming reality. The imaginative scenarios and technologies depicted in science fiction often spark ideas for real-world scientific inquiry and technological development.
+
+2. Public Interest and Funding: Popular science fiction can increase public interest in science, potentially influencing funding and support for scientific research. When a sci-fi concept captures the public's imagination, it can lead to increased investments in technologies similar to those depicted.
+
+3. Ethical Forecasting: Science fiction frequently explores the potential consequences—both good and bad—of new technologies and scientific advancements. This can lead to important discussions about ethics in science, helping society to anticipate and address potential issues before they arise.
+
+4. Problem-Solving: By presenting hypothetical scenarios where characters must solve complex problems with innovative solutions, science fiction encourages creative thinking that can be valuable in real scientific fields.
+
+5. Educational Tool: Science fiction can serve as an engaging tool to explain complex scientific theories and principles. By weaving scientific concepts into compelling narratives, it can make science more accessible and interesting to a wider audience.
+
+<br>
+</details>
 
 #
 ### Related Links
