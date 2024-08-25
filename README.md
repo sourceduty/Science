@@ -94,6 +94,8 @@ Sourceduty is committed to democratizing technology through open-source models, 
 [Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
 <br>
 [Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
