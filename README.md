@@ -66,6 +66,21 @@ Sourceduty is committed to democratizing technology through open-source models, 
 </details>
 
 #
+### New Science Subjects
+
+[Xenodynamics](https://github.com/sourceduty/Xenodynamics)
+<br>
+[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
+<br>
+[Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
+<br>
+[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
+<br>
+[Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+
+#
 ### Related Links
 
 [Mars](https://github.com/sourceduty/Mars)
@@ -81,21 +96,6 @@ Sourceduty is committed to democratizing technology through open-source models, 
 [Globel Problems](https://github.com/sourceduty/Global_Problems)
 <br>
 [Alien Life](https://github.com/sourceduty/Alien_Life)
-
-#
-### New Science Subjects
-
-[Xenodynamics](https://github.com/sourceduty/Xenodynamics)
-<br>
-[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
-<br>
-[Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
-<br>
-[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
-<br>
-[Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
-<br>
-[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
