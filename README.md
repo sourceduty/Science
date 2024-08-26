@@ -98,6 +98,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 
 > Alex: "*Although some of my new and dense science subjects are currently unusable, they might be important in the future.*"
 
+> "*The usability and accuracy of new and unproven science subjects is unguaranteed.*"
+
 #
 ### Related Links
 
