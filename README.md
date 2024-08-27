@@ -45,21 +45,7 @@ Sourceduty is committed to democratizing technology through open-source models, 
 #
 ### New Science Subjects
 
-[Xenodynamics](https://github.com/sourceduty/Xenodynamics)
-<br>
-[Computational Cyberdynamics](https://github.com/sourceduty/Computational_Cyberdynamics)
-<br>
-[Computational Microcontrollers](https://github.com/sourceduty/Computational_Microcontrollers)
-<br>
-[Computational Chronoreactor](https://github.com/sourceduty/Computational_Chronoreactor)
-<br>
-[Electrohydrodynamic Reactor](https://github.com/sourceduty/Electrohydrodynamic_Reactor)
-<br>
-[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
-<br>
-[Computational Chronophysics](https://github.com/sourceduty/Computational_Chronophysics)
-<br>
-[Diagnostic Physics](https://github.com/sourceduty/Diagnostic_Physics)
+[New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
 
 <br>
 
