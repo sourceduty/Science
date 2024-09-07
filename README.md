@@ -53,6 +53,8 @@ Moreover, science challenges traditional ways of thinking, encouraging creative 
 #
 ### Sourceduty Science
 
+![Reject Humanity Meme](https://github.com/user-attachments/assets/bb0077c6-1c23-4e49-aba0-778b65da14a6)
+
 Sourceduty, owned by Alex Aldridge, is a private company that excels in digital technology and artificial intelligence by leveraging a deep understanding of scientific research and informal academic knowledge. By staying attuned to emerging trends and conducting independent research, Sourceduty often discovers insights that go beyond traditional academic frameworks. This research-driven approach allows the company to apply advanced scientific concepts effectively, driving innovation and pushing the limits of current technology.
 
 Rather than relying on formal education, Alex is committed to self-directed research and the exploration of groundbreaking ideas. This dedication to continuous learning and scientific inquiry enables Sourceduty to stay at the cutting edge of technological development, integrating the latest research findings into its projects.
