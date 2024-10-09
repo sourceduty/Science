@@ -62,13 +62,6 @@ Rather than relying on formal education, Alex is committed to self-directed rese
 Sourceduty is committed to democratizing technology through open-source models, promoting a collaborative approach to scientific research and development. By sharing its research findings and models publicly, Alex encourages a community-driven approach to innovation, drawing on the collective expertise of contributors. This strategy bridges the gap between informal and formal academic research, fostering broader participation in scientific and technological advancement and ensuring that high-quality resources are accessible to a wider audience.
 
 #
-### Fastest Nobel Prize
-
-Barack Obama received the Nobel Peace Prize in 2009, a mere nine months after he began his term as the 44th President of the United States. His win was a surprise to many, as he had not yet enacted any major international policies or peace initiatives, which led to considerable debate. The Nobel Committee cited his "extraordinary efforts to strengthen international diplomacy and cooperation between peoples" as the basis for the award. They praised his commitment to reducing nuclear arms, improving relations with the Muslim world, and fostering a new climate of diplomacy and cooperation on global issues. This recognition came at a time when Obama was advocating for dialogue and multilateralism, and the award symbolized a hopeful endorsement of these efforts, even though they were still in the early stages.
-
-Obama's Nobel Peace Prize win remains one of the most contentious in the award’s history. Critics argued that the decision was premature, given that he had not yet achieved substantial results, and they questioned whether it was awarded more for his potential than for actual accomplishments. However, supporters viewed the prize as a powerful gesture, aimed at encouraging and bolstering his diplomatic goals. Obama himself acknowledged the controversy and humbly accepted the prize, saying he felt he did not deserve it yet, but he accepted it as "a call to action." His award highlighted both the optimism surrounding his presidency and the complex global expectations placed upon him, making his Nobel Peace Prize one of the shortest tenures to win but also one of the most talked-about awards.
-
-#
 ### Notes
 
 <details><summary>Science Fiction</summary>
@@ -87,6 +80,15 @@ Obama's Nobel Peace Prize win remains one of the most contentious in the award�
 4. Problem-Solving: By presenting hypothetical scenarios where characters must solve complex problems with innovative solutions, science fiction encourages creative thinking that can be valuable in real scientific fields.
 
 5. Educational Tool: Science fiction can serve as an engaging tool to explain complex scientific theories and principles. By weaving scientific concepts into compelling narratives, it can make science more accessible and interesting to a wider audience.
+
+<br>
+</details>
+<details><summary>Fastest Nobel Prize Record</summary>
+<br>
+
+Barack Obama received the Nobel Peace Prize in 2009, a mere nine months after he began his term as the 44th President of the United States. His win was a surprise to many, as he had not yet enacted any major international policies or peace initiatives, which led to considerable debate. The Nobel Committee cited his "extraordinary efforts to strengthen international diplomacy and cooperation between peoples" as the basis for the award. They praised his commitment to reducing nuclear arms, improving relations with the Muslim world, and fostering a new climate of diplomacy and cooperation on global issues. This recognition came at a time when Obama was advocating for dialogue and multilateralism, and the award symbolized a hopeful endorsement of these efforts, even though they were still in the early stages.
+
+Obama's Nobel Peace Prize win remains one of the most contentious in the award’s history. Critics argued that the decision was premature, given that he had not yet achieved substantial results, and they questioned whether it was awarded more for his potential than for actual accomplishments. However, supporters viewed the prize as a powerful gesture, aimed at encouraging and bolstering his diplomatic goals. Obama himself acknowledged the controversy and humbly accepted the prize, saying he felt he did not deserve it yet, but he accepted it as "a call to action." His award highlighted both the optimism surrounding his presidency and the complex global expectations placed upon him, making his Nobel Peace Prize one of the shortest tenures to win but also one of the most talked-about awards.
 
 <br>
 </details>
