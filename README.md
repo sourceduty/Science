@@ -86,6 +86,10 @@ Sourceduty is committed to democratizing technology through open-source models, 
 
 #
 
+![Robots](https://github.com/user-attachments/assets/7cf2921a-8500-47a8-ab72-987ee650f3b6)
+
+#
+
 > Alex: "*Although some of my new and dense science subjects are currently unusable, they might be important in the future.*"
 
 > "*The usability and accuracy of new and unproven science subjects is unguaranteed.*"
