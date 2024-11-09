@@ -11,6 +11,8 @@ Modern science builds on the discoveries of the past but operates in a vastly di
 #
 ### Scientific Abstraction
 
+![Atomic](https://github.com/user-attachments/assets/af3e8232-b5e2-4d20-808a-e4e3c1941474)
+
 In scientific study, abstraction levels help organize knowledge and research into distinct layers, each representing a different scope of analysis. The fundamental level is often the observation or empirical data, where raw measurements and facts are collected. This data can be abstracted into models and theories, offering higher-level explanations and predictions. The most abstract layer involves frameworks, paradigms, and philosophies of science, which guide the overarching structure of knowledge and research practices. These abstraction levels, from raw data to abstract theories, form a hierarchical structure that allows scientists to build on prior discoveries and refine their understanding of the world.
 
 The topological diagram below illustrates the flow of scientific abstraction. Starting from the empirical layer at the bottom, data is processed into increasingly abstract models, theories, and ultimately, the overarching philosophical frameworks that guide scientific inquiry. This hierarchy allows scientists to move from specific observations to generalized knowledge, contributing to the dynamic and evolving nature of science.
