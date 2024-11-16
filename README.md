@@ -16,6 +16,11 @@ Scientific research and studies in computer science are pivotal in driving innov
 Moreover, collaborative efforts between academia and industry amplify the impact of computer science research. Universities often focus on foundational and exploratory studies, while industries translate these findings into scalable applications. This synergy has led to the rapid adoption of technologies like deep learning, edge computing, and blockchain. By fostering a culture of open access and shared knowledge, researchers ensure that progress in one area contributes to advancements in others, creating a ripple effect that accelerates the growth of the field as a whole. Such collaborative frameworks exemplify how scientific inquiry and applied studies together push the boundaries of what is technologically possible.
 
 #
+### Studies
+
+A study or studies typically refers to focused investigations aimed at addressing specific questions or hypotheses, often confined to a narrow scope or particular dataset. These are usually short-term and result-driven, providing insights or validating assumptions within a defined context. In contrast, computer science research encompasses a broader, more systematic process of inquiry that seeks to generate new knowledge, theories, and methodologies. Research often involves developing new frameworks, conducting extensive experiments, and building on existing work to advance the field as a whole. While studies may contribute valuable data or findings to computer science, research is the overarching effort that synthesizes such studies into a cohesive understanding and drives transformative innovation.
+
+#
 ### Scientific Abstraction
 
 ![Atomic](https://github.com/user-attachments/assets/af3e8232-b5e2-4d20-808a-e4e3c1941474)
